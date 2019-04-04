@@ -9,4 +9,4 @@ frontent
 - Devloped using React & Redux
 - meeting
 
-ip = 52.14.9.107:5000
+ip = httpL//52.14.9.107:5000
